@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.out-line{
+
+    width: 30rem;
+    height: 28rem;
+    margin: 4rem auto;
+    border-radius: 20px;
+    background: lightblue;
+    border: 2px solid black;
+
+}
+input{
+    border: 1px solid black;
+    font-size: 2rem;
+}
+#display{
+    text-align: right;
+}
+
+.out-line .screen{
+    width: 3rem;
+    
+}
+button{
+    border-radius: 10px;
+    border: none;
+    background: black;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.out-line .screen input{
+    width: 25rem;
+    height: 3rem;
+    margin: 3rem 2.5rem;
+}
+.out-line .buttons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    grid-gap: 25px;
+    
+}
+.out-line .lastbuttons{
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-top: 25px;
+    grid-gap: 25px;
+}
