@@ -1,5 +1,7 @@
 # 🧮 Simple Calculator 🌈
 
+![Simple Calculator](https://github.com/Arosh-Upathilak/Simple-Calculator/blob/main/Calculator.png)
+
 ## Description
 
 This Simple Calculator is a basic web application that allows users to perform arithmetic operations. It's implemented using HTML, CSS, and JavaScript to create a user-friendly interface for simple calculations.
@@ -39,6 +41,6 @@ This project is licensed under the MIT License.
 
 Arosh Upathilak
 
-For inquiries, please contact: [aroshupathilak@gmail.com ](aroshupathilak@gmail.com)
+For inquiries, please contact: [aroshupathilak@gmail.com](mailto:aroshupathilak@gmail.com)
 
 Feel free to customize it further based on your preferences.
